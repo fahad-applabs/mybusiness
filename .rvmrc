@@ -1,2 +1,5 @@
 rvm use ruby-1.9.3-p125
 rvm gemset use mybusiness
+export AWS_ACCESS_KEY_ID=AKIAJRFNXCDGCPSQDZJQ
+export AWS_SECRET_ACCESS_KEY=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
+
